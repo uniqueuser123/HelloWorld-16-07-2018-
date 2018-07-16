@@ -1,0 +1,2 @@
+java -jar jenkins.war----> to start jenkin server
+java -jar jenkins.war - httpPort 5463 -----------> to switch to another port
