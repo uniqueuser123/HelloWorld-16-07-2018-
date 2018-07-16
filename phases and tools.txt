@@ -1,0 +1,9 @@
+Plan		Code & Test Design  {version}	  Build		Continous Testing		Deploy		Monitor
+	
+
+JIRA		VisualStudio	     GitHub	  Jenkins		VMWare			Chef		AppDynamics
+TOSCA		Eclipse		     BitBucket	  Maven						puppet		splunk
+		Selenium	      		  ANT						docker
+		TOSCA
+		JUNIT
+		Appium
